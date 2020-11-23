@@ -1,0 +1,437 @@
+{
+  "req": {
+    "body": {
+      "channelName": "App Store",
+      "nonce": "5372c051-1537-4e9c-acab-8aa27c665145",
+      "timestamp": 1605839059,
+      "res": {}
+    },
+    "path": "/api_fusion/Notice/getLatestWinningNotice"
+  },
+  "resp": {
+    "digital": [
+      {
+        "userName": "tjf6****",
+        "avatar": "",
+        "lotteryId": 31,
+        "lotteryName": "一分11选5",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/fbf768f1d24ba3fb5364ad014d50f6af.png",
+        "categoryId": 3,
+        "winningBonus": "59011.18",
+        "time": 1605839050,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "etgj****",
+        "avatar": "",
+        "lotteryId": 29,
+        "lotteryName": "一分快3",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20190511/3dd0d66f44e96329828cdb83eeb00603.png",
+        "categoryId": 2,
+        "winningBonus": "56489.68",
+        "time": 1605839051,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "2s4b****",
+        "avatar": "",
+        "lotteryId": 31,
+        "lotteryName": "一分11选5",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/fbf768f1d24ba3fb5364ad014d50f6af.png",
+        "categoryId": 3,
+        "winningBonus": "53566.43",
+        "time": 1605839050,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "sjyh****",
+        "avatar": "",
+        "lotteryId": 29,
+        "lotteryName": "一分快3",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20190511/3dd0d66f44e96329828cdb83eeb00603.png",
+        "categoryId": 2,
+        "winningBonus": "50641.75",
+        "time": 1605839051,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "qhti****",
+        "avatar": "",
+        "lotteryId": 40,
+        "lotteryName": "五分时时彩",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/60657461fec38fdd961be420d23693f6.png",
+        "categoryId": 1,
+        "winningBonus": "47667.14",
+        "time": 1605838813,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "bffz****",
+        "avatar": "",
+        "lotteryId": 46,
+        "lotteryName": "一分六合彩",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/7b88bacf822f92bc1c05e62e687b4e82.png",
+        "categoryId": 8,
+        "winningBonus": "46422.27",
+        "time": 1605839056,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "kmfz****",
+        "avatar": "",
+        "lotteryId": 53,
+        "lotteryName": "三分快3",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200605/1d1b45edfc787550a1adcea38ec0baab.png",
+        "categoryId": 2,
+        "winningBonus": "45168.41",
+        "time": 1605838877,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "ffju****",
+        "avatar": "",
+        "lotteryId": 27,
+        "lotteryName": "五分六合彩",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/3c46ab9fe4435d16a6cb114716089c4f.png",
+        "categoryId": 8,
+        "winningBonus": "45043.11",
+        "time": 1605838824,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "dkv3****",
+        "avatar": "",
+        "lotteryId": 60,
+        "lotteryName": "五分28",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200605/1acabfd8ae5f68b079bc456742ea5bbf.png",
+        "categoryId": 6,
+        "winningBonus": "44204.56",
+        "time": 1605838825,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "65au****",
+        "avatar": "",
+        "lotteryId": 67,
+        "lotteryName": "五分PK番摊",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/38ef0ed7806d84851553396fa49672b2.png",
+        "categoryId": 11,
+        "winningBonus": "42384.31",
+        "time": 1605838810,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "jrbm****",
+        "avatar": "",
+        "lotteryId": 21,
+        "lotteryName": "北京28",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/d4b6b8167506638176a06a7b8437b6e8.png",
+        "categoryId": 6,
+        "winningBonus": "41190.30",
+        "time": 1550797552,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "cse4****",
+        "avatar": "",
+        "lotteryId": 21,
+        "lotteryName": "北京28",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/d4b6b8167506638176a06a7b8437b6e8.png",
+        "categoryId": 6,
+        "winningBonus": "40431.52",
+        "time": 1550797552,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "9hfg****",
+        "avatar": "",
+        "lotteryId": 56,
+        "lotteryName": "一分28",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/cecd14a996233595e73b01b718ee524e.png",
+        "categoryId": 6,
+        "winningBonus": "37800.03",
+        "time": 1605839059,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "f7qb****",
+        "avatar": "",
+        "lotteryId": 47,
+        "lotteryName": "三分PK拾",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/69f5c6beb7865857d3ebcde6786d0781.png",
+        "categoryId": 5,
+        "winningBonus": "35316.30",
+        "time": 1605838885,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "ycuy****",
+        "avatar": "",
+        "lotteryId": 60,
+        "lotteryName": "五分28",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200605/1acabfd8ae5f68b079bc456742ea5bbf.png",
+        "categoryId": 6,
+        "winningBonus": "34559.63",
+        "time": 1605838825,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "9ryj****",
+        "avatar": "",
+        "lotteryId": 23,
+        "lotteryName": "三分时时彩",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/ae570b296be09fc3ca2b1cd8d4cc1896.png",
+        "categoryId": 1,
+        "winningBonus": "33928.93",
+        "time": 1605838885,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "5mia****",
+        "avatar": "",
+        "lotteryId": 22,
+        "lotteryName": "幸运28",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/695da6eeeaa872a5fa684610e038265f.png",
+        "categoryId": 6,
+        "winningBonus": "33317.25",
+        "time": 1605838930,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "vhxs****",
+        "avatar": "",
+        "lotteryId": 77,
+        "lotteryName": "新加坡六合彩",
+        "lotteryIcon": "https://cpweb-new.ftfxgame.com/public/static/images/xjplhc_y.png",
+        "categoryId": 8,
+        "winningBonus": "32686.83",
+        "time": 1605782700,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "nyhi****",
+        "avatar": "",
+        "lotteryId": 22,
+        "lotteryName": "幸运28",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/695da6eeeaa872a5fa684610e038265f.png",
+        "categoryId": 6,
+        "winningBonus": "32444.43",
+        "time": 1605838930,
+        "makeTime": 1605839059
+      },
+      {
+        "userName": "e5mi****",
+        "avatar": "",
+        "lotteryId": 68,
+        "lotteryName": "幸运飞艇番摊",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20191022/78b1701b286336fe410e7b24a8680cf1.png",
+        "categoryId": 11,
+        "winningBonus": "30302.67",
+        "time": 1589099361,
+        "makeTime": 1605839059
+      }
+    ],
+    "sports": [
+      {
+        "userName": "vt8a****",
+        "avatar": "",
+        "lotteryName": "斯诺克",
+        "lotteryIcon": "/fusion-oss/fusion/upload/sportsType/2a861490fea01a091858938926fb28f2.png",
+        "engName": "snooker",
+        "sportId": 8,
+        "winningBonus": "116533.97",
+        "time": 1605837354
+      },
+      {
+        "userName": "vciu****",
+        "avatar": "",
+        "lotteryName": "竞彩足球",
+        "lotteryIcon": "/fusion-oss/upload/sportsType/cfb7f15747a3734ed500a645909b306f.png",
+        "engName": "football",
+        "sportId": 1,
+        "winningBonus": "111087.05",
+        "time": 1605836900
+      },
+      {
+        "userName": "bffw****",
+        "avatar": "",
+        "lotteryName": "竞彩足球",
+        "lotteryIcon": "/fusion-oss/upload/sportsType/cfb7f15747a3734ed500a645909b306f.png",
+        "engName": "football",
+        "sportId": 1,
+        "winningBonus": "105882.14",
+        "time": 1605837939
+      },
+      {
+        "userName": "98zy****",
+        "avatar": "",
+        "lotteryName": "竞彩足球",
+        "lotteryIcon": "/fusion-oss/upload/sportsType/cfb7f15747a3734ed500a645909b306f.png",
+        "engName": "football",
+        "sportId": 1,
+        "winningBonus": "105461.33",
+        "time": 1605836019
+      },
+      {
+        "userName": "jfeb****",
+        "avatar": "",
+        "lotteryName": "斯诺克",
+        "lotteryIcon": "/fusion-oss/fusion/upload/sportsType/2a861490fea01a091858938926fb28f2.png",
+        "engName": "snooker",
+        "sportId": 8,
+        "winningBonus": "102368.40",
+        "time": 1605839056
+      },
+      {
+        "userName": "qz4m****",
+        "avatar": "",
+        "lotteryName": "斯诺克",
+        "lotteryIcon": "/fusion-oss/fusion/upload/sportsType/2a861490fea01a091858938926fb28f2.png",
+        "engName": "snooker",
+        "sportId": 8,
+        "winningBonus": "102101.42",
+        "time": 1605837455
+      },
+      {
+        "userName": "d5jt****",
+        "avatar": "",
+        "lotteryName": "竞彩篮球",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200416/d4a4603bde90d2ef11b0a802dbf15fd3.png",
+        "engName": "basketball",
+        "sportId": 2,
+        "winningBonus": "97548.87",
+        "time": 1605836626
+      },
+      {
+        "userName": "7aah****",
+        "avatar": "",
+        "lotteryName": "斯诺克",
+        "lotteryIcon": "/fusion-oss/fusion/upload/sportsType/2a861490fea01a091858938926fb28f2.png",
+        "engName": "snooker",
+        "sportId": 8,
+        "winningBonus": "92996.90",
+        "time": 1605838410
+      },
+      {
+        "userName": "jfqx****",
+        "avatar": "",
+        "lotteryName": "斯诺克",
+        "lotteryIcon": "/fusion-oss/fusion/upload/sportsType/2a861490fea01a091858938926fb28f2.png",
+        "engName": "snooker",
+        "sportId": 8,
+        "winningBonus": "91527.78",
+        "time": 1605835940
+      },
+      {
+        "userName": "wcrt****",
+        "avatar": "",
+        "lotteryName": "斯诺克",
+        "lotteryIcon": "/fusion-oss/fusion/upload/sportsType/2a861490fea01a091858938926fb28f2.png",
+        "engName": "snooker",
+        "sportId": 8,
+        "winningBonus": "88522.54",
+        "time": 1605836708
+      },
+      {
+        "userName": "abdi****",
+        "avatar": "",
+        "lotteryName": "斯诺克",
+        "lotteryIcon": "/fusion-oss/fusion/upload/sportsType/2a861490fea01a091858938926fb28f2.png",
+        "engName": "snooker",
+        "sportId": 8,
+        "winningBonus": "84093.52",
+        "time": 1605836776
+      },
+      {
+        "userName": "46gc****",
+        "avatar": "",
+        "lotteryName": "竞彩篮球",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200416/d4a4603bde90d2ef11b0a802dbf15fd3.png",
+        "engName": "basketball",
+        "sportId": 2,
+        "winningBonus": "82174.38",
+        "time": 1605838225
+      },
+      {
+        "userName": "dasq****",
+        "avatar": "",
+        "lotteryName": "竞彩足球",
+        "lotteryIcon": "/fusion-oss/upload/sportsType/cfb7f15747a3734ed500a645909b306f.png",
+        "engName": "football",
+        "sportId": 1,
+        "winningBonus": "81273.44",
+        "time": 1605836306
+      },
+      {
+        "userName": "z2fn****",
+        "avatar": "",
+        "lotteryName": "竞彩足球",
+        "lotteryIcon": "/fusion-oss/upload/sportsType/cfb7f15747a3734ed500a645909b306f.png",
+        "engName": "football",
+        "sportId": 1,
+        "winningBonus": "77350.27",
+        "time": 1605835740
+      },
+      {
+        "userName": "gq3x****",
+        "avatar": "",
+        "lotteryName": "斯诺克",
+        "lotteryIcon": "/fusion-oss/fusion/upload/sportsType/2a861490fea01a091858938926fb28f2.png",
+        "engName": "snooker",
+        "sportId": 8,
+        "winningBonus": "76700.46",
+        "time": 1605837236
+      },
+      {
+        "userName": "pxtv****",
+        "avatar": "",
+        "lotteryName": "竞彩篮球",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200416/d4a4603bde90d2ef11b0a802dbf15fd3.png",
+        "engName": "basketball",
+        "sportId": 2,
+        "winningBonus": "76093.81",
+        "time": 1605838496
+      },
+      {
+        "userName": "bxfr****",
+        "avatar": "",
+        "lotteryName": "竞彩篮球",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200416/d4a4603bde90d2ef11b0a802dbf15fd3.png",
+        "engName": "basketball",
+        "sportId": 2,
+        "winningBonus": "75273.09",
+        "time": 1605836482
+      },
+      {
+        "userName": "ytsx****",
+        "avatar": "",
+        "lotteryName": "斯诺克",
+        "lotteryIcon": "/fusion-oss/fusion/upload/sportsType/2a861490fea01a091858938926fb28f2.png",
+        "engName": "snooker",
+        "sportId": 8,
+        "winningBonus": "75223.36",
+        "time": 1605838272
+      },
+      {
+        "userName": "s9cq****",
+        "avatar": "",
+        "lotteryName": "斯诺克",
+        "lotteryIcon": "/fusion-oss/fusion/upload/sportsType/2a861490fea01a091858938926fb28f2.png",
+        "engName": "snooker",
+        "sportId": 8,
+        "winningBonus": "71867.49",
+        "time": 1605837131
+      },
+      {
+        "userName": "twyp****",
+        "avatar": "",
+        "lotteryName": "竞彩篮球",
+        "lotteryIcon": "/fusion-oss/fusion/uploads/20200416/d4a4603bde90d2ef11b0a802dbf15fd3.png",
+        "engName": "basketball",
+        "sportId": 2,
+        "winningBonus": "67256.73",
+        "time": 1605838867
+      }
+    ]
+  }
+}

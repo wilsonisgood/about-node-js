@@ -1,0 +1,49 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "532",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "id": 21,
+      "channelName": "App Store",
+      "nonce": "a94b5988-39a8-4783-a0c1-1052a740f9e9",
+      "timestamp": 1605841694
+    },
+    "param": {
+      "id": 21,
+      "channelName": "App Store"
+    },
+    "path": "/api_digital/Lottery/getHall"
+  },
+  "resp": [
+    {
+      "id": 21,
+      "name": "北京28",
+      "categoryId": 6,
+      "displayId": 6,
+      "icon": "/fusion-oss/fusion/uploads/20200611/d4b6b8167506638176a06a7b8437b6e8.png",
+      "introduction": "每5分钟开奖",
+      "explain": "",
+      "status": 1,
+      "groupId": 1,
+      "isHot": 0,
+      "displayIcon": "/fusion-oss/cp77.kosungames.com/uploads/images/20170121/58832ced965e5.png",
+      "currentIssueNo": "",
+      "lastPrizeNumber": "8,8,6,22",
+      "startTime": 0,
+      "endTime": 0,
+      "serverTime": 1605841695,
+      "isKeep": 0
+    }
+  ]
+}

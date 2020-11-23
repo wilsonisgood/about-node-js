@@ -1,0 +1,43 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "456",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "lotteryId": 9,
+      "nonce": "e1af636b-3592-466b-8493-9c8f17afeca6",
+      "timestamp": 1605841619
+    },
+    "param": {
+      "lotteryId": 9
+    },
+    "path": "/api_digital/LotteryIssue/getCurrentIssue"
+  },
+  "resp": {
+    "id": 18347970,
+    "lotteryId": 9,
+    "issueNo": "20201120009",
+    "prizeNumber": "",
+    "startTime": 1605841320,
+    "endTime": 1605842400,
+    "status": 1,
+    "prizeStatus": 0,
+    "lastIssueNo": "20201120008",
+    "lastPrizeNumber": "",
+    "lastEndTime": 1605841200,
+    "lotteryName": "江苏快3",
+    "lotteryIcon": "/fusion-oss/fusion/uploads/20200728/e6eb5d835db5ec9dced5059315e3f58d.png",
+    "serverTime": 1605841618,
+    "diff": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "465",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "lotteryId": 24,
+      "nonce": "d0753273-9854-4f11-84e7-6a1cc73eb093",
+      "timestamp": 1605841596
+    },
+    "param": {
+      "lotteryId": 24
+    },
+    "path": "/api_digital/LotteryIssue/getCurrentIssue"
+  },
+  "resp": {
+    "id": 18350287,
+    "lotteryId": 24,
+    "issueNo": "202011201107",
+    "prizeNumber": "",
+    "startTime": 1605841560,
+    "endTime": 1605841610,
+    "status": 1,
+    "prizeStatus": 0,
+    "lastIssueNo": "202011201106",
+    "lastPrizeNumber": "",
+    "lastEndTime": 1605841550,
+    "lotteryName": "一分时时彩",
+    "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/84ffc51367bb61f81d73c13e25168085.png",
+    "serverTime": 1605841595,
+    "diff": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "572",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "id": 54,
+      "channelName": "App Store",
+      "nonce": "bc2de138-266f-42c9-b7e5-ac77520b537c",
+      "timestamp": 1605841680
+    },
+    "param": {
+      "id": 54,
+      "channelName": "App Store"
+    },
+    "path": "/api_digital/Lottery/getHall"
+  },
+  "resp": [
+    {
+      "id": 54,
+      "name": "五分快3",
+      "categoryId": 2,
+      "displayId": 2,
+      "icon": "/fusion-oss/fusion/uploads/20200605/d2a2a27f7201da9ff9d67b4731f958b9.png",
+      "introduction": "5分钟一期",
+      "explain": "快三的描述",
+      "status": 1,
+      "groupId": 1,
+      "isHot": 0,
+      "displayIcon": "/fusion-oss/cp77.kosungames.com/uploads/images/20170121/58832d17e5110.png",
+      "currentIssueNo": "20201120135",
+      "lastPrizeNumber": "2,4,3",
+      "startTime": 1605841500,
+      "endTime": 1605841790,
+      "serverTime": 1605841680,
+      "isKeep": 0
+    }
+  ]
+}

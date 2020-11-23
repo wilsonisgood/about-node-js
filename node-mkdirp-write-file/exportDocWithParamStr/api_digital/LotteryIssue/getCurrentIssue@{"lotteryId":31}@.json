@@ -1,0 +1,43 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "462",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "lotteryId": 31,
+      "nonce": "3933f17b-e431-4af0-9633-8c399e65f727",
+      "timestamp": 1605841629
+    },
+    "param": {
+      "lotteryId": 31
+    },
+    "path": "/api_digital/LotteryIssue/getCurrentIssue"
+  },
+  "resp": {
+    "id": 18354896,
+    "lotteryId": 31,
+    "issueNo": "202011201108",
+    "prizeNumber": "",
+    "startTime": 1605841620,
+    "endTime": 1605841670,
+    "status": 1,
+    "prizeStatus": 0,
+    "lastIssueNo": "202011201107",
+    "lastPrizeNumber": "",
+    "lastEndTime": 1605841610,
+    "lotteryName": "一分11选5",
+    "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/fbf768f1d24ba3fb5364ad014d50f6af.png",
+    "serverTime": 1605841628,
+    "diff": 0
+  }
+}

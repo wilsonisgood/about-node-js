@@ -1,0 +1,152 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "2044",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "lotteryId": 9,
+      "count": 20,
+      "date": "2020-11-20",
+      "nonce": "dbf92057-d858-49bc-930f-d6c685cbd40f",
+      "timestamp": 1605841620
+    },
+    "param": {
+      "lotteryId": 9,
+      "count": 20,
+      "date": "2020-11-20"
+    },
+    "path": "/api_digital/LotteryIssue/getHistoryList"
+  },
+  "resp": [
+    {
+      "lotteryId": 9,
+      "issueNo": "20201120007",
+      "prizeNumber": "1,2,3",
+      "prizeTime": "2020-11-20 10:49:50"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201120006",
+      "prizeNumber": "3,6,6",
+      "prizeTime": "2020-11-20 10:29:51"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201120005",
+      "prizeNumber": "2,3,5",
+      "prizeTime": "2020-11-20 10:09:51"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201120004",
+      "prizeNumber": "4,5,6",
+      "prizeTime": "2020-11-20 09:49:47"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201120003",
+      "prizeNumber": "3,4,4",
+      "prizeTime": "2020-11-20 09:29:46"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201120002",
+      "prizeNumber": "3,4,4",
+      "prizeTime": "2020-11-20 09:09:51"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201120001",
+      "prizeNumber": "3,5,5",
+      "prizeTime": "2020-11-20 08:49:51"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119041",
+      "prizeNumber": "1,1,1",
+      "prizeTime": "2020-11-19 22:10:59"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119040",
+      "prizeNumber": "1,2,6",
+      "prizeTime": "2020-11-19 21:50:51"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119039",
+      "prizeNumber": "4,4,4",
+      "prizeTime": "2020-11-19 21:30:29"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119038",
+      "prizeNumber": "2,4,6",
+      "prizeTime": "2020-11-19 21:10:27"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119037",
+      "prizeNumber": "2,3,5",
+      "prizeTime": "2020-11-19 20:50:23"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119036",
+      "prizeNumber": "2,3,5",
+      "prizeTime": "2020-11-19 20:30:25"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119035",
+      "prizeNumber": "1,1,6",
+      "prizeTime": "2020-11-19 20:10:23"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119034",
+      "prizeNumber": "2,3,5",
+      "prizeTime": "2020-11-19 19:50:18"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119033",
+      "prizeNumber": "1,1,5",
+      "prizeTime": "2020-11-19 19:30:16"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119032",
+      "prizeNumber": "3,3,5",
+      "prizeTime": "2020-11-19 19:10:13"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119031",
+      "prizeNumber": "1,2,3",
+      "prizeTime": "2020-11-19 18:50:16"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119030",
+      "prizeNumber": "6,6,6",
+      "prizeTime": "2020-11-19 18:30:11"
+    },
+    {
+      "lotteryId": 9,
+      "issueNo": "20201119029",
+      "prizeNumber": "3,3,4",
+      "prizeTime": "2020-11-19 18:10:03"
+    }
+  ]
+}

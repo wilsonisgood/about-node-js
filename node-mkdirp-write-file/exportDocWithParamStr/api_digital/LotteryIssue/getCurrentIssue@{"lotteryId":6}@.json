@@ -1,0 +1,43 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "456",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "lotteryId": 6,
+      "nonce": "1d17760e-4335-4513-955e-fc846a49305c",
+      "timestamp": 1605841612
+    },
+    "param": {
+      "lotteryId": 6
+    },
+    "path": "/api_digital/LotteryIssue/getCurrentIssue"
+  },
+  "resp": {
+    "id": 18347802,
+    "lotteryId": 6,
+    "issueNo": "20201120008",
+    "prizeNumber": "",
+    "startTime": 1605841020,
+    "endTime": 1605842160,
+    "status": 1,
+    "prizeStatus": 0,
+    "lastIssueNo": "20201120007",
+    "lastPrizeNumber": "",
+    "lastEndTime": 1605840960,
+    "lotteryName": "安徽快3",
+    "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/1815c3d140a9cd51d09cf052a8a38f25.png",
+    "serverTime": 1605841611,
+    "diff": 0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "req": {
+    "body": {
+      "deviceId": "iPhone10,4",
+      "uniqueId": "093916CB-BE42-4E3D-88F8-E102976B3CD2",
+      "deviceName": "iPhone 8",
+      "systemName": "iOS",
+      "systemVersion": "12.4",
+      "deviceType": "ios",
+      "nonce": "709873ec-1dfb-4650-a1c4-f397b3d6a712",
+      "timestamp": 1605775082,
+      "res": {}
+    },
+    "path": "/api_fusion/Device/report"
+  }
+}

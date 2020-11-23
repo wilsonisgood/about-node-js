@@ -1,0 +1,43 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "460",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "lotteryId": 14,
+      "nonce": "de690b0e-95f2-4f09-812a-128cd63de416",
+      "timestamp": 1605841640
+    },
+    "param": {
+      "lotteryId": 14
+    },
+    "path": "/api_digital/LotteryIssue/getCurrentIssue"
+  },
+  "resp": {
+    "id": 18348178,
+    "lotteryId": 14,
+    "issueNo": "20201120007",
+    "prizeNumber": "",
+    "startTime": 1605841500,
+    "endTime": 1605842640,
+    "status": 1,
+    "prizeStatus": 0,
+    "lastIssueNo": "20201120006",
+    "lastPrizeNumber": "",
+    "lastEndTime": 1605841440,
+    "lotteryName": "广东11选5",
+    "lotteryIcon": "/fusion-oss/fusion/uploads/20200611/8c22ae0170888aa240cd927cc172bbba.png",
+    "serverTime": 1605841640,
+    "diff": 1
+  }
+}

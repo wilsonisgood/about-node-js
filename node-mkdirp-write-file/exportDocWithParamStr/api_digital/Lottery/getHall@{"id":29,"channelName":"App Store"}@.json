@@ -1,0 +1,49 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "558",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "id": 29,
+      "channelName": "App Store",
+      "nonce": "a3c53716-f527-4266-a0dd-102004d42b22",
+      "timestamp": 1605841684
+    },
+    "param": {
+      "id": 29,
+      "channelName": "App Store"
+    },
+    "path": "/api_digital/Lottery/getHall"
+  },
+  "resp": [
+    {
+      "id": 29,
+      "name": "一分快3",
+      "categoryId": 2,
+      "displayId": 2,
+      "icon": "/fusion-oss/fusion/uploads/20190511/3dd0d66f44e96329828cdb83eeb00603.png",
+      "introduction": "1分钟一期",
+      "explain": "",
+      "status": 1,
+      "groupId": 1,
+      "isHot": 0,
+      "displayIcon": "/fusion-oss/cp77.kosungames.com/uploads/images/20170121/58832d17e5110.png",
+      "currentIssueNo": "202011201109",
+      "lastPrizeNumber": "5,5,6",
+      "startTime": 1605841680,
+      "endTime": 1605841730,
+      "serverTime": 1605841684,
+      "isKeep": 0
+    }
+  ]
+}

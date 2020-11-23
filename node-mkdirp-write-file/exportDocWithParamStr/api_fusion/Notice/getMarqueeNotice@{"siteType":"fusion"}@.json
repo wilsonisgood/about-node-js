@@ -1,0 +1,49 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "592",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "siteType": "fusion",
+      "nonce": "8b983208-9c82-4886-abf8-20c383f12f19",
+      "timestamp": 1605842068
+    },
+    "param": {
+      "siteType": "fusion"
+    },
+    "path": "/api_fusion/Notice/getMarqueeNotice"
+  },
+  "resp": [
+    {
+      "id": 163,
+      "title": "KTKTKT",
+      "content": "<p>KTkTTTTTTTTTTTTTTTT</p>",
+      "introduction": "KTkTTTTTTTTTTTTTTTT",
+      "createTime": "2020-04-14 15:12:52"
+    },
+    {
+      "id": 149,
+      "title": "好嗨喔感觉人生已经到达了巅峰",
+      "content": "<p>工作使我快乐</p>",
+      "introduction": "工作让我好嗨哦-我是测试横线------横线可以显示吗————测试",
+      "createTime": "2019-12-29 15:11:39"
+    },
+    {
+      "id": 147,
+      "title": "ALYSHIA 12/26",
+      "content": "",
+      "introduction": "ALYSHIA 12/26",
+      "createTime": "2019-12-26 16:11:19"
+    }
+  ]
+}

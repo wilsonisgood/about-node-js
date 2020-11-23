@@ -1,0 +1,335 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "4901",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "sport": "football",
+      "type": "match",
+      "date": "2020-11-19",
+      "page": 1,
+      "nonce": "79247e11-f68b-439a-b6b7-8ba111718eec",
+      "timestamp": 1605841560
+    },
+    "param": {
+      "sport": "football",
+      "type": "match",
+      "date": "2020-11-19",
+      "page": 1
+    },
+    "path": "/api/Results/getList"
+  },
+  "resp": {
+    "totalPage": 8,
+    "result": [
+      {
+        "matchId": 47,
+        "matchName": "波兰甲组联赛",
+        "schedule": [
+          {
+            "gameId": 4531069,
+            "homeScore": "1",
+            "guestScore": "3",
+            "homeScore1h": "0",
+            "guestScore1h": "2",
+            "beginTime": "2020-11-19 00:00:00",
+            "gameType": "",
+            "homeName": "科罗纳",
+            "guestName": "奥尔什丁"
+          }
+        ]
+      },
+      {
+        "matchId": 1568,
+        "matchName": "葡萄牙冠军联赛",
+        "schedule": [
+          {
+            "gameId": 4538383,
+            "homeScore": "1",
+            "guestScore": "1",
+            "homeScore1h": "1",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-19 00:00:00",
+            "gameType": "",
+            "homeName": "丰蒂尼亚斯",
+            "guestName": "皇家体育队"
+          }
+        ]
+      },
+      {
+        "matchId": 698,
+        "matchName": "西班牙乙组联赛B",
+        "schedule": [
+          {
+            "gameId": 4540507,
+            "homeScore": "1",
+            "guestScore": "2",
+            "homeScore1h": "1",
+            "guestScore1h": "2",
+            "beginTime": "2020-11-19 00:00:00",
+            "gameType": "",
+            "homeName": "艾高亚诺",
+            "guestName": "伊维萨"
+          },
+          {
+            "gameId": 4540511,
+            "homeScore": "1",
+            "guestScore": "2",
+            "homeScore1h": "0",
+            "guestScore1h": "2",
+            "beginTime": "2020-11-19 00:00:00",
+            "gameType": "",
+            "homeName": "皇家联邦",
+            "guestName": "艾拉维斯B队"
+          }
+        ]
+      },
+      {
+        "matchId": 771,
+        "matchName": "西班牙女子甲组联赛",
+        "schedule": [
+          {
+            "gameId": 4541435,
+            "homeScore": "1",
+            "guestScore": "0",
+            "homeScore1h": "1",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-19 00:00:00",
+            "gameType": "",
+            "homeName": "巴列卡诺(女)",
+            "guestName": "皇家贝迪斯(女)"
+          }
+        ]
+      },
+      {
+        "matchId": 1364,
+        "matchName": "秘鲁乙组联赛",
+        "schedule": [
+          {
+            "gameId": 4542481,
+            "homeScore": "2",
+            "guestScore": "0",
+            "homeScore1h": "1",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-19 00:00:00",
+            "gameType": "",
+            "homeName": "瓦拉尔联",
+            "guestName": "可帕索尔"
+          }
+        ]
+      },
+      {
+        "matchId": 1220,
+        "matchName": "欧洲U21青年锦标赛2021外围赛",
+        "schedule": [
+          {
+            "gameId": 4515557,
+            "homeScore": "1",
+            "guestScore": "2",
+            "homeScore1h": "0",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-19 00:30:00",
+            "gameType": "",
+            "homeName": "卢森堡U21",
+            "guestName": "爱尔兰U21"
+          },
+          {
+            "gameId": 4515573,
+            "homeScore": "4",
+            "guestScore": "1",
+            "homeScore1h": "1",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-19 00:30:00",
+            "gameType": "",
+            "homeName": "意大利U21",
+            "guestName": "瑞典U21"
+          },
+          {
+            "gameId": 4515579,
+            "homeScore": "6",
+            "guestScore": "2",
+            "homeScore1h": "2",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-19 00:30:00",
+            "gameType": "角球数",
+            "homeName": "意大利U21",
+            "guestName": "瑞典U21"
+          }
+        ]
+      },
+      {
+        "matchId": 675,
+        "matchName": "RFEF杯",
+        "schedule": [
+          {
+            "gameId": 4538319,
+            "homeScore": "2",
+            "guestScore": "1",
+            "homeScore1h": "2",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-19 00:30:00",
+            "gameType": "",
+            "homeName": "拉高斯特拉哥斯达巴拉瓦",
+            "guestName": "UCAM梅西亚"
+          }
+        ]
+      },
+      {
+        "matchId": 575,
+        "matchName": "欧洲女子冠军联赛外围赛",
+        "schedule": [
+          {
+            "gameId": 4540551,
+            "homeScore": "2",
+            "guestScore": "1",
+            "homeScore1h": "0",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-19 00:30:00",
+            "gameType": "",
+            "homeName": "GKS莱茨纳(女)",
+            "guestName": "阿波罗利马素尔(女)"
+          }
+        ]
+      },
+      {
+        "matchId": 28,
+        "matchName": "欧洲国家联赛C",
+        "schedule": [
+          {
+            "gameId": 4491483,
+            "homeScore": "1",
+            "guestScore": "0",
+            "homeScore1h": "0",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-19 01:00:00",
+            "gameType": "",
+            "homeName": "阿美尼亚",
+            "guestName": "北马其顿"
+          },
+          {
+            "gameId": 4491491,
+            "homeScore": "5",
+            "guestScore": "4",
+            "homeScore1h": "2",
+            "guestScore1h": "2",
+            "beginTime": "2020-11-19 01:00:00",
+            "gameType": "角球数",
+            "homeName": "阿美尼亚",
+            "guestName": "北马其顿"
+          },
+          {
+            "gameId": 4491495,
+            "homeScore": "0",
+            "guestScore": "0",
+            "homeScore1h": "0",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-19 01:00:00",
+            "gameType": "",
+            "homeName": "格鲁吉亚",
+            "guestName": "爱沙尼亚"
+          },
+          {
+            "gameId": 4491503,
+            "homeScore": "3",
+            "guestScore": "3",
+            "homeScore1h": "0",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-19 01:00:00",
+            "gameType": "角球数",
+            "homeName": "格鲁吉亚",
+            "guestName": "爱沙尼亚"
+          }
+        ]
+      },
+      {
+        "matchId": 511,
+        "matchName": "德国西部联赛",
+        "schedule": [
+          {
+            "gameId": 4517685,
+            "homeScore": "0",
+            "guestScore": "1",
+            "homeScore1h": "0",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-19 01:00:00",
+            "gameType": "",
+            "homeName": "亚琛",
+            "guestName": "科隆福图纳"
+          }
+        ]
+      },
+      {
+        "matchId": 50,
+        "matchName": "挪威甲组联赛",
+        "schedule": [
+          {
+            "gameId": 4521537,
+            "homeScore": "1",
+            "guestScore": "0",
+            "homeScore1h": "1",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-19 01:00:00",
+            "gameType": "",
+            "homeName": "利勒斯特罗姆",
+            "guestName": "谢夫"
+          },
+          {
+            "gameId": 4521545,
+            "homeScore": "4",
+            "guestScore": "1",
+            "homeScore1h": "3",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-19 01:00:00",
+            "gameType": "",
+            "homeName": "桑德尼斯",
+            "guestName": "丝托达尔斯"
+          }
+        ]
+      },
+      {
+        "matchId": 530,
+        "matchName": "瓜地马拉全国联赛",
+        "schedule": [
+          {
+            "gameId": 4531055,
+            "homeScore": "1",
+            "guestScore": "0",
+            "homeScore1h": "0",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-19 01:00:00",
+            "gameType": "",
+            "homeName": "伊斯塔帕",
+            "guestName": "科万英佩尔"
+          }
+        ]
+      },
+      {
+        "matchId": 132,
+        "matchName": "波兰乙组联赛",
+        "schedule": [
+          {
+            "gameId": 4531081,
+            "homeScore": "2",
+            "guestScore": "1",
+            "homeScore1h": "0",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-19 01:00:00",
+            "gameType": "",
+            "homeName": "莫托路宾",
+            "guestName": "比托维亚"
+          }
+        ]
+      }
+    ]
+  }
+}

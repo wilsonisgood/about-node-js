@@ -1,0 +1,468 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "8719",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "channelName": "App Store",
+      "nonce": "ae7cc8df-44cf-4a79-95de-0d6f52dc93fb",
+      "timestamp": 1605841564
+    },
+    "param": {
+      "channelName": "App Store"
+    },
+    "path": "/api_digital/Lottery/getList"
+  },
+  "resp": [
+    {
+      "id": 72,
+      "name": "新幸运飞艇-72",
+      "categoryId": 5,
+      "displayId": 5,
+      "icon": "/fusion-oss/fusion/uploads/20200611/84190fed392370f7d34e0e9d4497ba4a.png",
+      "introduction": "5分钟一期",
+      "explain": "每五分一期",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 31,
+      "name": "一分11选5",
+      "categoryId": 3,
+      "displayId": 3,
+      "icon": "/fusion-oss/fusion/uploads/20200611/fbf768f1d24ba3fb5364ad014d50f6af.png",
+      "introduction": "1分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 47,
+      "name": "三分PK拾",
+      "categoryId": 5,
+      "displayId": 5,
+      "icon": "/fusion-oss/fusion/uploads/20200611/69f5c6beb7865857d3ebcde6786d0781.png",
+      "introduction": "我是妮娜",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 16,
+      "name": "排列三",
+      "categoryId": 4,
+      "displayId": 4,
+      "icon": "/fusion-oss/fusion/uploads/20200611/b828de5907adffc8148b70a1ac8082ba.png",
+      "introduction": "每天20.30开奖",
+      "explain": "",
+      "groupId": 2,
+      "isHot": 0
+    },
+    {
+      "id": 76,
+      "name": "台湾39选5",
+      "categoryId": 13,
+      "displayId": 11,
+      "icon": "/fusion-oss/fusion/uploads/20200724/ca192ccd7d90193e75406b9457678c17.png",
+      "introduction": "每周一至周六开奖",
+      "explain": "39 new!",
+      "groupId": 2,
+      "isHot": 0
+    },
+    {
+      "id": 46,
+      "name": "一分六合彩",
+      "categoryId": 8,
+      "displayId": 8,
+      "icon": "/fusion-oss/fusion/uploads/20200611/7b88bacf822f92bc1c05e62e687b4e82.png",
+      "introduction": "1分钟一期",
+      "explain": "特码赔率48.8",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 71,
+      "name": "澳门六合彩",
+      "categoryId": 8,
+      "displayId": 8,
+      "icon": "/fusion-oss/fusion/uploads/20200611/5bb48375d536523c5df724450df5c7a2.png",
+      "introduction": "每天1期",
+      "explain": "",
+      "groupId": 2,
+      "isHot": 0
+    },
+    {
+      "id": 15,
+      "name": "安徽11选5",
+      "categoryId": 3,
+      "displayId": 3,
+      "icon": "/fusion-oss/fusion/uploads/20200611/7f518d7cd8595058851c5a9dab071068.png",
+      "introduction": "每10分钟开奖",
+      "explain": "6666",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 69,
+      "name": "五分时时番摊",
+      "categoryId": 12,
+      "displayId": 10,
+      "icon": "/fusion-oss/fusion/uploads/20191022/134cf4e2d010703b2ae6c3c93dee943a.png",
+      "introduction": "5分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 24,
+      "name": "一分时时彩",
+      "categoryId": 1,
+      "displayId": 1,
+      "icon": "/fusion-oss/fusion/uploads/20200611/84ffc51367bb61f81d73c13e25168085.png",
+      "introduction": "1分钟一期",
+      "explain": "超百万玩家玩",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 64,
+      "name": "幸运飞艇牛牛",
+      "categoryId": 9,
+      "displayId": 9,
+      "icon": "/fusion-oss/fusion/uploads/20200611/0e6fb357299cf335c635c6066bc6f0dd.png",
+      "introduction": "5分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 68,
+      "name": "幸运飞艇番摊",
+      "categoryId": 11,
+      "displayId": 10,
+      "icon": "/fusion-oss/fusion/uploads/20191022/78b1701b286336fe410e7b24a8680cf1.png",
+      "introduction": "5分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 27,
+      "name": "五分六合彩",
+      "categoryId": 8,
+      "displayId": 8,
+      "icon": "/fusion-oss/fusion/uploads/20200611/3c46ab9fe4435d16a6cb114716089c4f.png",
+      "introduction": "5分钟一期",
+      "explain": "最创新~",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 25,
+      "name": "一分PK拾",
+      "categoryId": 5,
+      "displayId": 5,
+      "icon": "/fusion-oss/fusion/uploads/20200611/ffbd86523b3c6d9053e0e9ccf594ee88.png",
+      "introduction": "1分钟一期",
+      "explain": "最激情~",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 22,
+      "name": "幸运28",
+      "categoryId": 6,
+      "displayId": 6,
+      "icon": "/fusion-oss/fusion/uploads/20200611/695da6eeeaa872a5fa684610e038265f.png",
+      "introduction": "每2分钟开奖",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 48,
+      "name": "新幸运飞艇-48",
+      "categoryId": 5,
+      "displayId": 5,
+      "icon": "/fusion-oss/fusion/uploads/20200611/f88068688ee0996dbc3344f5ccf1c199.png",
+      "introduction": "5分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 12,
+      "name": "上海11选5",
+      "categoryId": 3,
+      "displayId": 3,
+      "icon": "/fusion-oss/fusion/uploads/20200611/804ada95a1dbdc25ad8108b110bf2521.png",
+      "introduction": "每10分钟开奖",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 14,
+      "name": "广东11选5",
+      "categoryId": 3,
+      "displayId": 3,
+      "icon": "/fusion-oss/fusion/uploads/20200611/8c22ae0170888aa240cd927cc172bbba.png",
+      "introduction": "每10分钟开奖",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 6,
+      "name": "安徽快3",
+      "categoryId": 2,
+      "displayId": 2,
+      "icon": "/fusion-oss/fusion/uploads/20200611/1815c3d140a9cd51d09cf052a8a38f25.png",
+      "introduction": "每10分钟开奖",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 17,
+      "name": "福彩3D",
+      "categoryId": 4,
+      "displayId": 4,
+      "icon": "/fusion-oss/fusion/uploads/20200611/73941341b5ed3c665411da52de6b987b.png",
+      "introduction": "每天21.15开奖",
+      "explain": "",
+      "groupId": 2,
+      "isHot": 0
+    },
+    {
+      "id": 29,
+      "name": "一分快3",
+      "categoryId": 2,
+      "displayId": 2,
+      "icon": "/fusion-oss/fusion/uploads/20190511/3dd0d66f44e96329828cdb83eeb00603.png",
+      "introduction": "1分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 2,
+      "name": "新疆时时彩",
+      "categoryId": 1,
+      "displayId": 1,
+      "icon": "/fusion-oss/fusion/uploads/20200611/745202e84e1deb10af8653b60f7207b2.png",
+      "introduction": "每10分钟开奖",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 28,
+      "name": "香港⑥合彩",
+      "categoryId": 8,
+      "displayId": 8,
+      "icon": "/fusion-oss/fusion/uploads/20190424/62d3e3fc16b632ea74ff42ebebe1bd6f.png",
+      "introduction": "每周开奖3期",
+      "explain": "最经典~",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 23,
+      "name": "三分时时彩",
+      "categoryId": 1,
+      "displayId": 1,
+      "icon": "/fusion-oss/fusion/uploads/20200611/ae570b296be09fc3ca2b1cd8d4cc1896.png",
+      "introduction": "3分钟一期",
+      "explain": "最好玩~",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 30,
+      "name": "极速3D",
+      "categoryId": 4,
+      "displayId": 4,
+      "icon": "/fusion-oss/fusion/uploads/20200611/74a5c297011ed4b869fb53e791e02323.png",
+      "introduction": "1分钟一期",
+      "explain": "每周开奖3期",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 56,
+      "name": "一分28",
+      "categoryId": 6,
+      "displayId": 6,
+      "icon": "/fusion-oss/fusion/uploads/20200611/cecd14a996233595e73b01b718ee524e.png",
+      "introduction": "1分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 9,
+      "name": "江苏快3",
+      "categoryId": 2,
+      "displayId": 2,
+      "icon": "/fusion-oss/fusion/uploads/20200728/e6eb5d835db5ec9dced5059315e3f58d.png",
+      "introduction": "每10分钟开奖",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 11,
+      "name": "山东11选5",
+      "categoryId": 3,
+      "displayId": 3,
+      "icon": "/fusion-oss/fusion/uploads/20200611/624501137610c2dd99833bfb59ebc230.png",
+      "introduction": "每10分钟开奖",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 13,
+      "name": "江西11选5",
+      "categoryId": 3,
+      "displayId": 3,
+      "icon": "/fusion-oss/fusion/uploads/20200611/0a716d3d26c39add1f0804d31e36d7ba.png",
+      "introduction": "每10分钟开奖",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 21,
+      "name": "北京28",
+      "categoryId": 6,
+      "displayId": 6,
+      "icon": "/fusion-oss/fusion/uploads/20200611/d4b6b8167506638176a06a7b8437b6e8.png",
+      "introduction": "每5分钟开奖",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 40,
+      "name": "五分时时彩",
+      "categoryId": 1,
+      "displayId": 1,
+      "icon": "/fusion-oss/fusion/uploads/20200611/60657461fec38fdd961be420d23693f6.png",
+      "introduction": "5分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 53,
+      "name": "三分快3",
+      "categoryId": 2,
+      "displayId": 2,
+      "icon": "/fusion-oss/fusion/uploads/20200605/1d1b45edfc787550a1adcea38ec0baab.png",
+      "introduction": "3分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 54,
+      "name": "五分快3",
+      "categoryId": 2,
+      "displayId": 2,
+      "icon": "/fusion-oss/fusion/uploads/20200605/d2a2a27f7201da9ff9d67b4731f958b9.png",
+      "introduction": "5分钟一期",
+      "explain": "快三的描述",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 58,
+      "name": "三分28",
+      "categoryId": 6,
+      "displayId": 6,
+      "icon": "/fusion-oss/fusion/uploads/20200605/151eba493256451e6e4cf811ac598905.png",
+      "introduction": "3分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 60,
+      "name": "五分28",
+      "categoryId": 6,
+      "displayId": 6,
+      "icon": "/fusion-oss/fusion/uploads/20200605/1acabfd8ae5f68b079bc456742ea5bbf.png",
+      "introduction": "5分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 61,
+      "name": "三分六合彩",
+      "categoryId": 8,
+      "displayId": 8,
+      "icon": "/fusion-oss/fusion/uploads/20200605/a7695422a741208b0a8b6caebe720e10.png",
+      "introduction": "3分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 65,
+      "name": "五分时时牛牛",
+      "categoryId": 10,
+      "displayId": 9,
+      "icon": "/fusion-oss/fusion/uploads/20200605/feaba7eab206a14c62d554959e495486.png",
+      "introduction": "5分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 67,
+      "name": "五分PK番摊",
+      "categoryId": 11,
+      "displayId": 10,
+      "icon": "/fusion-oss/fusion/uploads/20200611/38ef0ed7806d84851553396fa49672b2.png",
+      "introduction": "5分钟一期",
+      "explain": "",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 75,
+      "name": "台湾-大乐透",
+      "categoryId": 8,
+      "displayId": 8,
+      "icon": "/fusion-oss/public/static/images/twdlt.png",
+      "introduction": "每周二、五开奖",
+      "explain": "公平、公正、公开",
+      "groupId": 1,
+      "isHot": 0
+    },
+    {
+      "id": 77,
+      "name": "新加坡六合彩",
+      "categoryId": 8,
+      "displayId": 8,
+      "icon": "https://cpweb-new.ftfxgame.com/public/static/images/xjplhc_y.png",
+      "introduction": "每周一、四开奖喔",
+      "explain": "每周一、四开奖喔",
+      "groupId": 1,
+      "isHot": 1
+    }
+  ]
+}

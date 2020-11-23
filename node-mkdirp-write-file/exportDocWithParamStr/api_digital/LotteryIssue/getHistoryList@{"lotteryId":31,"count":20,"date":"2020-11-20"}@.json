@@ -1,0 +1,192 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "2628",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "lotteryId": 31,
+      "count": 20,
+      "date": "2020-11-20",
+      "nonce": "2f3dcd74-fbaa-4de8-b4b8-5508bb10a785",
+      "timestamp": 1605841630
+    },
+    "param": {
+      "lotteryId": 31,
+      "count": 20,
+      "date": "2020-11-20"
+    },
+    "path": "/api_digital/LotteryIssue/getHistoryList"
+  },
+  "resp": [
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201106",
+      "prizeNumber": "10,09,07,02,04",
+      "prizeTime": "2020-11-20 11:06:24",
+      "sum": 32,
+      "span": 8
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201105",
+      "prizeNumber": "11,10,06,03,09",
+      "prizeTime": "2020-11-20 11:05:15",
+      "sum": 39,
+      "span": 8
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201104",
+      "prizeNumber": "09,11,07,04,06",
+      "prizeTime": "2020-11-20 11:04:22",
+      "sum": 37,
+      "span": 7
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201103",
+      "prizeNumber": "03,05,02,01,04",
+      "prizeTime": "2020-11-20 11:03:16",
+      "sum": 15,
+      "span": 4
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201102",
+      "prizeNumber": "04,06,09,07,11",
+      "prizeTime": "2020-11-20 11:02:10",
+      "sum": 37,
+      "span": 7
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201101",
+      "prizeNumber": "06,01,11,09,04",
+      "prizeTime": "2020-11-20 11:01:21",
+      "sum": 31,
+      "span": 10
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201100",
+      "prizeNumber": "05,03,06,02,01",
+      "prizeTime": "2020-11-20 11:00:22",
+      "sum": 17,
+      "span": 5
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201059",
+      "prizeNumber": "05,02,04,01,07",
+      "prizeTime": "2020-11-20 10:59:24",
+      "sum": 19,
+      "span": 6
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201058",
+      "prizeNumber": "06,07,11,02,08",
+      "prizeTime": "2020-11-20 10:58:12",
+      "sum": 34,
+      "span": 9
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201057",
+      "prizeNumber": "02,10,11,04,01",
+      "prizeTime": "2020-11-20 10:57:22",
+      "sum": 28,
+      "span": 10
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201056",
+      "prizeNumber": "03,04,08,02,10",
+      "prizeTime": "2020-11-20 10:56:11",
+      "sum": 27,
+      "span": 8
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201055",
+      "prizeNumber": "07,05,06,11,10",
+      "prizeTime": "2020-11-20 10:55:17",
+      "sum": 39,
+      "span": 6
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201054",
+      "prizeNumber": "02,05,10,09,11",
+      "prizeTime": "2020-11-20 10:54:21",
+      "sum": 37,
+      "span": 9
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201053",
+      "prizeNumber": "06,07,08,05,04",
+      "prizeTime": "2020-11-20 10:53:13",
+      "sum": 30,
+      "span": 4
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201052",
+      "prizeNumber": "06,05,09,10,11",
+      "prizeTime": "2020-11-20 10:52:16",
+      "sum": 41,
+      "span": 6
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201051",
+      "prizeNumber": "03,01,09,11,06",
+      "prizeTime": "2020-11-20 10:51:20",
+      "sum": 30,
+      "span": 10
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201050",
+      "prizeNumber": "07,03,05,04,02",
+      "prizeTime": "2020-11-20 10:50:16",
+      "sum": 21,
+      "span": 5
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201049",
+      "prizeNumber": "04,06,02,11,09",
+      "prizeTime": "2020-11-20 10:49:14",
+      "sum": 32,
+      "span": 9
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201048",
+      "prizeNumber": "07,09,02,06,08",
+      "prizeTime": "2020-11-20 10:48:15",
+      "sum": 32,
+      "span": 7
+    },
+    {
+      "lotteryId": 31,
+      "issueNo": "202011201047",
+      "prizeNumber": "11,07,03,09,08",
+      "prizeTime": "2020-11-20 10:47:12",
+      "sum": 38,
+      "span": 8
+    }
+  ]
+}

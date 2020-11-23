@@ -1,0 +1,415 @@
+{
+  "req": {
+    "body": {
+      "lotteryId": 60,
+      "count": 50,
+      "date": "2020-11-19",
+      "nonce": "878d39bf-a764-4a49-825d-388531aa9f97",
+      "timestamp": 1605786613,
+      "res": {}
+    },
+    "path": "/api_digital/LotteryIssue/getHistoryList"
+  },
+  "resp": [
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119238",
+      "prizeNumber": "5,4,6,15",
+      "prizeTime": "2020-11-19 19:45:18",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119237",
+      "prizeNumber": "1,5,8,14",
+      "prizeTime": "2020-11-19 19:40:17",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119236",
+      "prizeNumber": "6,6,3,15",
+      "prizeTime": "2020-11-19 19:35:22",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119235",
+      "prizeNumber": "5,9,8,22",
+      "prizeTime": "2020-11-19 19:30:19",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119234",
+      "prizeNumber": "5,9,5,19",
+      "prizeTime": "2020-11-19 19:25:21",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119233",
+      "prizeNumber": "1,3,2,6",
+      "prizeTime": "2020-11-19 19:20:17",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119232",
+      "prizeNumber": "6,6,2,14",
+      "prizeTime": "2020-11-19 19:15:24",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119231",
+      "prizeNumber": "7,4,6,17",
+      "prizeTime": "2020-11-19 19:10:25",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119230",
+      "prizeNumber": "3,8,6,17",
+      "prizeTime": "2020-11-19 19:05:19",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119229",
+      "prizeNumber": "8,1,4,13",
+      "prizeTime": "2020-11-19 19:00:11",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119228",
+      "prizeNumber": "6,5,0,11",
+      "prizeTime": "2020-11-19 18:55:17",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119227",
+      "prizeNumber": "9,0,0,9",
+      "prizeTime": "2020-11-19 18:50:12",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119226",
+      "prizeNumber": "8,8,9,25",
+      "prizeTime": "2020-11-19 18:45:18",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119225",
+      "prizeNumber": "8,8,1,17",
+      "prizeTime": "2020-11-19 18:40:19",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119224",
+      "prizeNumber": "0,5,0,5",
+      "prizeTime": "2020-11-19 18:35:19",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119223",
+      "prizeNumber": "2,9,9,20",
+      "prizeTime": "2020-11-19 18:30:19",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119222",
+      "prizeNumber": "2,2,8,12",
+      "prizeTime": "2020-11-19 18:25:16",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119221",
+      "prizeNumber": "6,0,0,6",
+      "prizeTime": "2020-11-19 18:20:10",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119220",
+      "prizeNumber": "1,6,1,8",
+      "prizeTime": "2020-11-19 18:15:12",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119219",
+      "prizeNumber": "7,8,2,17",
+      "prizeTime": "2020-11-19 18:10:13",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119218",
+      "prizeNumber": "1,9,7,17",
+      "prizeTime": "2020-11-19 18:05:11",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119217",
+      "prizeNumber": "2,0,3,5",
+      "prizeTime": "2020-11-19 18:00:16",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119216",
+      "prizeNumber": "4,9,8,21",
+      "prizeTime": "2020-11-19 17:55:16",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119215",
+      "prizeNumber": "4,3,9,16",
+      "prizeTime": "2020-11-19 17:50:16",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119214",
+      "prizeNumber": "9,9,9,27",
+      "prizeTime": "2020-11-19 17:45:21",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119213",
+      "prizeNumber": "3,8,8,19",
+      "prizeTime": "2020-11-19 17:40:21",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119212",
+      "prizeNumber": "0,4,6,10",
+      "prizeTime": "2020-11-19 17:35:14",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119211",
+      "prizeNumber": "6,5,6,17",
+      "prizeTime": "2020-11-19 17:30:25",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119210",
+      "prizeNumber": "9,5,4,18",
+      "prizeTime": "2020-11-19 17:25:11",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119209",
+      "prizeNumber": "8,9,4,21",
+      "prizeTime": "2020-11-19 17:20:11",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119208",
+      "prizeNumber": "5,6,1,12",
+      "prizeTime": "2020-11-19 17:15:25",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119207",
+      "prizeNumber": "5,0,7,12",
+      "prizeTime": "2020-11-19 17:10:18",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119206",
+      "prizeNumber": "9,8,6,23",
+      "prizeTime": "2020-11-19 17:05:20",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119205",
+      "prizeNumber": "4,8,9,21",
+      "prizeTime": "2020-11-19 17:00:18",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119204",
+      "prizeNumber": "0,7,6,13",
+      "prizeTime": "2020-11-19 16:55:19",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119203",
+      "prizeNumber": "2,5,7,14",
+      "prizeTime": "2020-11-19 16:50:22",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119202",
+      "prizeNumber": "7,4,3,14",
+      "prizeTime": "2020-11-19 16:45:21",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119201",
+      "prizeNumber": "5,7,0,12",
+      "prizeTime": "2020-11-19 16:40:16",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119200",
+      "prizeNumber": "4,3,9,16",
+      "prizeTime": "2020-11-19 16:35:18",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119199",
+      "prizeNumber": "8,6,9,23",
+      "prizeTime": "2020-11-19 16:30:18",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119198",
+      "prizeNumber": "6,7,7,20",
+      "prizeTime": "2020-11-19 16:25:10",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119197",
+      "prizeNumber": "6,2,3,11",
+      "prizeTime": "2020-11-19 16:20:24",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119196",
+      "prizeNumber": "4,5,2,11",
+      "prizeTime": "2020-11-19 16:15:13",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119195",
+      "prizeNumber": "3,5,2,10",
+      "prizeTime": "2020-11-19 16:10:14",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119194",
+      "prizeNumber": "0,2,8,10",
+      "prizeTime": "2020-11-19 16:05:14",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119193",
+      "prizeNumber": "0,0,9,9",
+      "prizeTime": "2020-11-19 16:00:16",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119192",
+      "prizeNumber": "7,5,0,12",
+      "prizeTime": "2020-11-19 15:55:15",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119191",
+      "prizeNumber": "8,7,7,22",
+      "prizeTime": "2020-11-19 15:50:21",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119190",
+      "prizeNumber": "2,9,0,11",
+      "prizeTime": "2020-11-19 15:45:24",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": 60,
+      "issueNo": "20201119189",
+      "prizeNumber": "4,4,9,17",
+      "prizeTime": "2020-11-19 15:40:16",
+      "size": "big",
+      "single": "odd"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "458",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "lotteryId": 53,
+      "nonce": "0127928c-49de-4def-bdd0-4db8d496da4f",
+      "timestamp": 1605841623
+    },
+    "param": {
+      "lotteryId": 53
+    },
+    "path": "/api_digital/LotteryIssue/getCurrentIssue"
+  },
+  "resp": {
+    "id": 18359827,
+    "lotteryId": 53,
+    "issueNo": "20201120224",
+    "prizeNumber": "",
+    "startTime": 1605841560,
+    "endTime": 1605841730,
+    "status": 1,
+    "prizeStatus": 0,
+    "lastIssueNo": "20201120223",
+    "lastPrizeNumber": "",
+    "lastEndTime": 1605841550,
+    "lotteryName": "三分快3",
+    "lotteryIcon": "/fusion-oss/fusion/uploads/20200605/1d1b45edfc787550a1adcea38ec0baab.png",
+    "serverTime": 1605841623,
+    "diff": 0
+  }
+}

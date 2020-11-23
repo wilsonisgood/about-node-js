@@ -1,0 +1,341 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "5060",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "sport": "football",
+      "type": "match",
+      "date": "2020-11-20",
+      "page": 1,
+      "nonce": "96343c92-8a02-4c50-8a37-b3544861f103",
+      "timestamp": 1605841559
+    },
+    "param": {
+      "sport": "football",
+      "type": "match",
+      "date": "2020-11-20",
+      "page": 1
+    },
+    "path": "/api/Results/getList"
+  },
+  "resp": {
+    "totalPage": 3,
+    "result": [
+      {
+        "matchId": 1458,
+        "matchName": "墨西哥女子超级联赛",
+        "schedule": [
+          {
+            "gameId": 4539045,
+            "homeScore": "3",
+            "guestScore": "1",
+            "homeScore1h": "1",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-20 00:00:00",
+            "gameType": "",
+            "homeName": "艾特莱(女)",
+            "guestName": "蒙特瑞(女)"
+          }
+        ]
+      },
+      {
+        "matchId": 575,
+        "matchName": "欧洲女子冠军联赛外围赛",
+        "schedule": [
+          {
+            "gameId": 4539147,
+            "homeScore": "1",
+            "guestScore": "0",
+            "homeScore1h": "0",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-20 00:00:00",
+            "gameType": "",
+            "homeName": "圣普尔顿(女)",
+            "guestName": "莫斯科中央陆军(女)"
+          }
+        ]
+      },
+      {
+        "matchId": 189,
+        "matchName": "委内瑞拉乙组联赛",
+        "schedule": [
+          {
+            "gameId": 4539171,
+            "homeScore": "1",
+            "guestScore": "2",
+            "homeScore1h": "1",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-20 00:00:00",
+            "gameType": "",
+            "homeName": "皇家富恩特拉",
+            "guestName": "赫马洛斯柯莫纳雷"
+          }
+        ]
+      },
+      {
+        "matchId": 691,
+        "matchName": "约旦超级联赛",
+        "schedule": [
+          {
+            "gameId": 4539001,
+            "homeScore": "0",
+            "guestScore": "1",
+            "homeScore1h": "0",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-20 00:30:00",
+            "gameType": "",
+            "homeName": "阿尔萨瑞",
+            "guestName": "胡森伊尔比德"
+          }
+        ]
+      },
+      {
+        "matchId": 1554,
+        "matchName": "奇幻赛事",
+        "schedule": [
+          {
+            "gameId": 4542945,
+            "homeScore": "2",
+            "guestScore": "2",
+            "homeScore1h": "0",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-20 01:45:00",
+            "gameType": "",
+            "homeName": "特尔斯达",
+            "guestName": "坎布尔"
+          }
+        ]
+      },
+      {
+        "matchId": 148,
+        "matchName": "巴西杯U20",
+        "schedule": [
+          {
+            "gameId": 4538873,
+            "homeScore": "3",
+            "guestScore": "0",
+            "homeScore1h": "0",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-20 02:00:00",
+            "gameType": "",
+            "homeName": "华斯高RJU20",
+            "guestName": "阿瓦伊SCU20"
+          }
+        ]
+      },
+      {
+        "matchId": 217,
+        "matchName": "巴西阿斯匹兰特斯锦标赛U23",
+        "schedule": [
+          {
+            "gameId": 4538943,
+            "homeScore": "1",
+            "guestScore": "2",
+            "homeScore1h": "1",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-20 02:00:00",
+            "gameType": "",
+            "homeName": "富明尼斯RJU23",
+            "guestName": "维拉诺瓦GOU23"
+          },
+          {
+            "gameId": 4538947,
+            "homeScore": "2",
+            "guestScore": "2",
+            "homeScore1h": "2",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-20 02:00:00",
+            "gameType": "",
+            "homeName": "甘美奥RSU23",
+            "guestName": "RedBullBragantinoSPU23"
+          },
+          {
+            "gameId": 4538955,
+            "homeScore": "2",
+            "guestScore": "1",
+            "homeScore1h": "1",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-20 02:00:00",
+            "gameType": "",
+            "homeName": "哥连泰斯SPU23",
+            "guestName": "森柏欧MAU23"
+          },
+          {
+            "gameId": 4538959,
+            "homeScore": "1",
+            "guestScore": "0",
+            "homeScore1h": "0",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-20 02:00:00",
+            "gameType": "",
+            "homeName": "山度士SPU23",
+            "guestName": "圣塔库鲁PEU23"
+          },
+          {
+            "gameId": 4538967,
+            "homeScore": "5",
+            "guestScore": "0",
+            "homeScore1h": "0",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-20 02:00:00",
+            "gameType": "",
+            "homeName": "卡尔拉CEU23",
+            "guestName": "柏拉拿PRU23"
+          },
+          {
+            "gameId": 4538971,
+            "homeScore": "4",
+            "guestScore": "1",
+            "homeScore1h": "2",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-20 02:00:00",
+            "gameType": "",
+            "homeName": "福塔雷萨CEU23",
+            "guestName": "阿瓦伊SCU23"
+          }
+        ]
+      },
+      {
+        "matchId": 646,
+        "matchName": "巴西高卓杯",
+        "schedule": [
+          {
+            "gameId": 4538927,
+            "homeScore": "1",
+            "guestScore": "3",
+            "homeScore1h": "1",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-20 02:30:00",
+            "gameType": "",
+            "homeName": "新奧里藏特RS",
+            "guestName": "圣乔斯RS"
+          }
+        ]
+      },
+      {
+        "matchId": 1259,
+        "matchName": "巴西帕拉尼恩斯乙组联赛",
+        "schedule": [
+          {
+            "gameId": 4538935,
+            "homeScore": "0",
+            "guestScore": "2",
+            "homeScore1h": "0",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-20 02:30:00",
+            "gameType": "",
+            "homeName": "独立FSJPR",
+            "guestName": "马林加PR"
+          }
+        ]
+      },
+      {
+        "matchId": 61,
+        "matchName": "罗马尼亚乙组联赛",
+        "schedule": [
+          {
+            "gameId": 4539069,
+            "homeScore": "1",
+            "guestScore": "0",
+            "homeScore1h": "0",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-20 02:30:00",
+            "gameType": "",
+            "homeName": "布格勒斯特迅速",
+            "guestName": "古积大学"
+          }
+        ]
+      },
+      {
+        "matchId": 670,
+        "matchName": "英格兰足总女子超级联赛杯",
+        "schedule": [
+          {
+            "gameId": 4538975,
+            "homeScore": "1",
+            "guestScore": "1",
+            "homeScore1h": "1",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-20 03:00:00",
+            "gameType": "",
+            "homeName": "达勒姆(女)",
+            "guestName": "阿斯顿维拉(女)"
+          }
+        ]
+      },
+      {
+        "matchId": 448,
+        "matchName": "智利甲组联赛",
+        "schedule": [
+          {
+            "gameId": 4535147,
+            "homeScore": "1",
+            "guestScore": "1",
+            "homeScore1h": "1",
+            "guestScore1h": "1",
+            "beginTime": "2020-11-20 03:15:00",
+            "gameType": "",
+            "homeName": "华奇巴托",
+            "guestName": "伊库伊奎"
+          }
+        ]
+      },
+      {
+        "matchId": 189,
+        "matchName": "委内瑞拉乙组联赛",
+        "schedule": [
+          {
+            "gameId": 4539175,
+            "homeScore": "2",
+            "guestScore": "0",
+            "homeScore1h": "1",
+            "guestScore1h": "0",
+            "beginTime": "2020-11-20 03:21:00",
+            "gameType": "",
+            "homeName": "JBL苏里亚",
+            "guestName": "艾尔维吉亚"
+          }
+        ]
+      },
+      {
+        "matchId": 75,
+        "matchName": "厄瓜多尔甲组联赛",
+        "schedule": [
+          {
+            "gameId": 4536203,
+            "homeScore": "0",
+            "guestScore": "2",
+            "homeScore1h": "0",
+            "guestScore1h": "2",
+            "beginTime": "2020-11-20 03:30:00",
+            "gameType": "",
+            "homeName": "国家报队",
+            "guestName": "卡托利卡基多"
+          },
+          {
+            "gameId": 4538837,
+            "homeScore": "8",
+            "guestScore": "3",
+            "homeScore1h": "4",
+            "guestScore1h": "3",
+            "beginTime": "2020-11-20 03:30:00",
+            "gameType": "角球数",
+            "homeName": "国家报队",
+            "guestName": "卡托利卡基多"
+          }
+        ]
+      }
+    ]
+  }
+}

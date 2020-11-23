@@ -1,0 +1,40 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "390",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "sport": "football",
+      "type": "match",
+      "gameId": 4539045,
+      "nonce": "383633f1-d687-4996-91f9-b6925a30d657",
+      "timestamp": 1605839431,
+      "res": {}
+    },
+    "path": "/api/Results/getInfo"
+  },
+  "resp": {
+    "gameId": 4539045,
+    "matchId": 1458,
+    "beginTime": "2020-11-20 00:00:00",
+    "gameType": "",
+    "matchName": "墨西哥女子超级联赛",
+    "homeName": "艾特莱(女)",
+    "guestName": "蒙特瑞(女)",
+    "result": {
+      "homeScore": "3",
+      "guestScore": "1",
+      "homeScore1h": "1",
+      "guestScore1h": "1"
+    }
+  }
+}

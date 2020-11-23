@@ -1,0 +1,48 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "704",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "siteType": "fusion",
+      "nonce": "5b97f32e-df15-4520-893a-d493a03d3d38",
+      "timestamp": 1605840498
+    },
+    "param": {
+      "siteType": "fusion"
+    },
+    "path": "/api/Home/activity"
+  },
+  "resp": [
+    {
+      "activityId": 109,
+      "activityName": "(不要动！！！) susu测试",
+      "activityImage": "/fusion-oss/fusion/uploads/20200601/ce1f5bdd2963ef354d8658cd8dd36f27.jpg"
+    },
+    {
+      "activityId": 153,
+      "activityName": "Noah1026",
+      "activityImage": "https://cpweb-test.ftfxgame.com/fusion/uploads/20201026/9a40296c2daaa6bf1b6a990cdaa05d69.jpg"
+    },
+    {
+      "activityId": 45,
+      "activityName": "小花",
+      "activityImage": "/fusion-oss/fusion/uploads/20200623/9b3ba29b9202dd692b57b139551cfd0a.jpg"
+    },
+    {
+      "activityId": 101,
+      "activityName": "(不要动！！！)123采票",
+      "activityImage": "/fusion-oss/fusion/uploads/20200106/88194ccc7d49d97a3880ce7f141c17b5.gif"
+    }
+  ]
+}

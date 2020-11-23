@@ -1,0 +1,31 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "167",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "sportId": "",
+      "startTime": "",
+      "endTime": "",
+      "status": "",
+      "page": 1,
+      "nonce": "aeb0da4a-cb24-48be-8997-d5ec000f7678",
+      "timestamp": 1605839450,
+      "res": {}
+    },
+    "path": "/api/Order/mineBet"
+  },
+  "resp": {
+    "totalPage": 0,
+    "result": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "req": {
+    "headers": {
+      "host": "localhost:3000",
+      "content-type": "application/json;charset=utf-8",
+      "user-agent": "prometheus/1 CFNetwork/978.0.7 Darwin/19.4.0",
+      "connection": "keep-alive",
+      "auth-token": "9ec2fae712842512b5a5e4f8fda1f48c66da1611",
+      "if-none-match": "W/\"22-OaQSjdHtZhfpfmDFyqFZMBHS9Gc\"",
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-us",
+      "auth-identity": "guest",
+      "content-length": "171",
+      "accept-encoding": "gzip, deflate"
+    },
+    "body": {
+      "sport": "football",
+      "type": "outright",
+      "date": "2020-11-20",
+      "page": 1,
+      "nonce": "bbc6db3b-0db1-4192-9a5d-d15a6fba0ff7",
+      "timestamp": 1605841547
+    },
+    "param": {
+      "sport": "football",
+      "type": "outright",
+      "date": "2020-11-20",
+      "page": 1
+    },
+    "path": "/api/Results/getList"
+  },
+  "resp": {
+    "totalPage": 0,
+    "result": []
+  }
+}
